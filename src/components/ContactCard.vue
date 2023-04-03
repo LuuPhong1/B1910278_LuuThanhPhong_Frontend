@@ -10,7 +10,7 @@
     </div>
     <div class="p-1">
         <strong>Địa chỉ:</strong>
-        {{ contact.address }}
+        {{ contact.adress }}
     </div>
     <div class="p-1">
         <strong>Điện thoại:</strong>
